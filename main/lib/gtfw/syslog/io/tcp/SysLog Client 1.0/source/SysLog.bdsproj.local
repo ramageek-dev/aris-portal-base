@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/06/27 11:21:51.156.pas,D:\My Documents\Borland Studio Projects\Unit1.pas=D:\My Documents\Borland Studio Projects\SysLog\ufrmMain.pas</Transaction>
+    <Transaction>2007/06/27 11:21:51.171.dfm,D:\My Documents\Borland Studio Projects\Unit1.dfm=D:\My Documents\Borland Studio Projects\SysLog\ufrmMain.dfm</Transaction>
+    <Transaction>2007/06/27 11:22:04.437.bdsproj,D:\My Documents\Borland Studio Projects\Project1.bdsproj=D:\My Documents\Borland Studio Projects\SysLog\SysLog.bdsproj</Transaction>
+    <Transaction>2007/06/27 12:23:06.656.pas,D:\My Documents\Borland Studio Projects\SysLog\Unit1.pas=D:\My Documents\Borland Studio Projects\SysLog\SysLogClient.pas</Transaction>
+    <Transaction>2007/06/27 13:47:56.406.pas,D:\My Documents\Borland Studio Projects\SysLog\Unit1.pas=D:\My Documents\Borland Studio Projects\SysLog\ufrmOptions.pas</Transaction>
+    <Transaction>2007/06/27 13:47:56.406.dfm,D:\My Documents\Borland Studio Projects\SysLog\Unit1.dfm=D:\My Documents\Borland Studio Projects\SysLog\ufrmOptions.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
